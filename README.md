@@ -1,5 +1,3 @@
-# M3U8-2
-MIX IPTV
 #EXTM3U
 #EXTINF:0,GEM Junior Livertmp://gemtv.fms.visionip.tv/live/gemtv-gemtv-junior-live-25f-4x3-SDq?ref=www.gemonline.tv&USER=GEM+Junior
 #EXTINF:-1,Music India
